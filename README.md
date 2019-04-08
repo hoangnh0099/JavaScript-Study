@@ -35,14 +35,4 @@
 - Lesson 29: Prototype (Done)
 - Lesson 30: Inheritance (Done)
 - Lesson 31: Closure (Done)
-- Lesson 32: Intermediately Invoked Function Expression
-
-### ES6
-
-- Lesson 33: Var, let and const
-- Lesson 34: Arrow function
-- Lesson 35: Rest parameter
-- Lesson 36: Spread parameter
-- Lesson 37: String template
-- Lesson 38: For of & For in
-- Lesson 38: Modules
+- Lesson 32: Intermediately Invoked Function Expression (Done)
